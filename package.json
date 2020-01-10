@@ -1,0 +1,34 @@
+{
+  "name": "homebridge-philipstv-2019",
+  "version": "0.1.1",
+  "description": "Homebridge module for the Philips TV 2019 models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixekman/homebridge-philipstv-2019.git"
+  },
+  "dependencies": {
+    "polling-to-event": "^2.0.2",
+    "request": "^2.69.0",
+    "wake_on_lan": "0.0.4"
+  },
+  "keywords": [
+    "homebridge",
+    "philipstv",
+    "JointSpace",
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "felixekman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixekman/homebridge-philipstv-2019/issues"
+  },
+  "homepage": "https://github.com/felixekman/homebridge-philipstv-2019#readme"
+}
